@@ -1,0 +1,24 @@
+<style class="text/css">
+    th {
+        font-weight: bold;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .text-right {
+        text-align: right;
+    }
+    .text-bold {
+        font-weight: bold;
+    }
+    .bg-primary {
+        background: #e5a617;
+        color:#ffffff;
+    }
+    .bg-info {
+        background: #d0e0ff;
+    }
+    .text-primary {
+        color:#0688dc;
+    }
+</style><table class="table table-sm table-condensed table-bordered table-data" border="1"><caption class="text-center text-bold"><div>1 รายงานข้อมูลภาวะการผลิตพืช <span class="text-primary">พืชอายุสั้น (รต.01)</span> จำแนกตามพืช/แมลง</div><div> กลุ่ม <span class="text-primary">ข้าว</span> ชนิด <span class="text-primary">ข้าวนาปี</span> กลุ่มข้าว <span class="text-primary">ข้าวหอมมะลิ</span> พันธุ์ <span class="text-primary">ทั้งหมด</span></div><div>ภาคเหนือ</div><div>ตั้งแต่เดือน <span class="text-primary">มกราคม</span> <span class="text-primary">2563</span> ถึง <span class="text-primary">ธันวาคม</span> <span class="text-primary">2563</span><div class="text-right text-muted"><small>ตัดยอดข้อมูล ณ วันที่ <span class="text-primary">6</span> เดือน <span class="text-primary">มกราคม</span> พ.ศ. <span class="text-primary">2564</span> เวลา <span class="text-primary">01:05</span>น.</small></div></div></caption><thead><tr class="bg-primary"><th>พื้นที่</th><th>จำนวน<br/>ครัวเรือน<br/>เกษตร</th><th>เนื้อที่ปลูก<br/>(ไร่)</th><th>เนื้อที่ปลูกใหม่<br/>(ไร่)</th><th>เนื้อที่ไว้หน่อไว้ตอ<br/>(ไร่)</th><th>เนื้อที่เสียหาย<br/>(ไร่)</th><th>เนื้อที่เก็บเกี่ยว<br/>ผลผลิต<br/>(ไร่)</th><th>ผลผลิต<br/>ที่เก็บเกี่ยวได้<br/>(กิโลกรัม)</th><th>ผลผลิตเฉลี่ย<br/>(กิโลกรัม/ไร่)</th><th>ราคาที่เกษตรกร<br/>ขายได้เฉลี่ย<br/>(บาท/กิโลกรัม)</th></tr></thead><tbody>            <tr class="data-row-2"><td class="text-bold data-col-1">ภาคเหนือ</td>    <td class="text-right">93,558</td>    <td class="text-right">669,573.14</td>            <td class="text-right">669,515.64</td>        <td class="text-right">0.00</td>    <td class="text-right">16.00</td>    <td class="text-right">656,851.30</td>    <td class="text-right">348,892,463.78</td>    <td class="text-right">531.16</td><td class="text-right">9.86</td></tr>            <tr class="data-row-1"><td class=" data-col-2">เชียงราย</td>    <td class="text-right">30,868</td>    <td class="text-right">252,777.75</td>            <td class="text-right">252,777.25</td>        <td class="text-right">0.00</td>    <td class="text-right">0.00</td>    <td class="text-right">247,545.00</td>    <td class="text-right">117,705,206.78</td>    <td class="text-right">475.49</td><td class="text-right">9.19</td></tr>                <tr class="data-row-1"><td class=" data-col-2">เชียงใหม่</td>    <td class="text-right">2,235</td>    <td class="text-right">13,863.00</td>            <td class="text-right">13,806.00</td>        <td class="text-right">0.00</td>    <td class="text-right">0.00</td>    <td class="text-right">13,305.00</td>    <td class="text-right">8,330,086.00</td>    <td class="text-right">626.09</td><td class="text-right">11.12</td></tr>                <tr class="data-row-1"><td class=" data-col-2">น่าน</td>    <td class="text-right">0</td>    <td class="text-right">18.00</td>            <td class="text-right">18.00</td>        <td class="text-right">0.00</td>    <td class="text-right">0.00</td>    <td class="text-right">0.00</td>    <td class="text-right">0.00</td>    <td class="text-right">-</td><td class="text-right">-</td></tr>                <tr class="data-row-1"><td class=" data-col-2">พะเยา</td>    <td class="text-right">60,455</td>    <td class="text-right">402,914.39</td>            <td class="text-right">402,914.39</td>        <td class="text-right">0.00</td>    <td class="text-right">16.00</td>    <td class="text-right">396,001.30</td>    <td class="text-right">222,857,171.00</td>    <td class="text-right">562.77</td><td class="text-right">10.16</td></tr>            </tbody></table><div class="text-muted"><small>หมายเหตุ : เป็นตัวเลขประมาณการจะมีความชัดเจนเมื่อได้สรุปผลเป็นข้อมูลเอกภาพแล้วเท่านั้น</small></div><div class="text-muted"><small>แหล่งที่มา : ระบบสารสนเทศการผลิตทางด้านการเกษตร</small></div>

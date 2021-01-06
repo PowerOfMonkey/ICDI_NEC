@@ -1,0 +1,24 @@
+<style class="text/css">
+    th {
+        font-weight: bold;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .text-right {
+        text-align: right;
+    }
+    .text-bold {
+        font-weight: bold;
+    }
+    .bg-primary {
+        background: #e5a617;
+        color:#ffffff;
+    }
+    .bg-info {
+        background: #d0e0ff;
+    }
+    .text-primary {
+        color:#0688dc;
+    }
+</style><table class="table table-sm table-condensed table-bordered table-data" border="1"><caption class="text-center text-bold"><div>1 รายงานข้อมูลภาวะการผลิตพืช <span class="text-primary">พืชอายุสั้น (รต.01)</span> จำแนกตามพืช/แมลง</div><div> กลุ่ม <span class="text-primary">ข้าว</span> ชนิด <span class="text-primary">ข้าวนาปี</span> กลุ่มข้าว <span class="text-primary">ข้าวหอมมะลิ</span> พันธุ์ <span class="text-primary">ทั้งหมด</span></div><div>ภาคเหนือ</div><div>ตั้งแต่เดือน <span class="text-primary">มกราคม</span> <span class="text-primary">2562</span> ถึง <span class="text-primary">ธันวาคม</span> <span class="text-primary">2562</span><div class="text-right text-muted"><small>ตัดยอดข้อมูล ณ วันที่ <span class="text-primary">6</span> เดือน <span class="text-primary">มกราคม</span> พ.ศ. <span class="text-primary">2564</span> เวลา <span class="text-primary">01:03</span>น.</small></div></div></caption><thead><tr class="bg-primary"><th>พื้นที่</th><th>จำนวน<br/>ครัวเรือน<br/>เกษตร</th><th>เนื้อที่ปลูก<br/>(ไร่)</th><th>เนื้อที่ปลูกใหม่<br/>(ไร่)</th><th>เนื้อที่ไว้หน่อไว้ตอ<br/>(ไร่)</th><th>เนื้อที่เสียหาย<br/>(ไร่)</th><th>เนื้อที่เก็บเกี่ยว<br/>ผลผลิต<br/>(ไร่)</th><th>ผลผลิต<br/>ที่เก็บเกี่ยวได้<br/>(กิโลกรัม)</th><th>ผลผลิตเฉลี่ย<br/>(กิโลกรัม/ไร่)</th><th>ราคาที่เกษตรกร<br/>ขายได้เฉลี่ย<br/>(บาท/กิโลกรัม)</th></tr></thead><tbody>            <tr class="data-row-2"><td class="text-bold data-col-1">ภาคเหนือ</td>    <td class="text-right">93,201</td>    <td class="text-right">778,249.50</td>            <td class="text-right">763,097.50</td>        <td class="text-right">0.00</td>    <td class="text-right">51,739.30</td>    <td class="text-right">723,602.70</td>    <td class="text-right">372,910,378.50</td>    <td class="text-right">515.35</td><td class="text-right">11.92</td></tr>            <tr class="data-row-1"><td class=" data-col-2">เชียงราย</td>    <td class="text-right">56,432</td>    <td class="text-right">402,789.25</td>            <td class="text-right">399,412.25</td>        <td class="text-right">0.00</td>    <td class="text-right">47,748.05</td>    <td class="text-right">355,040.70</td>    <td class="text-right">195,462,129.00</td>    <td class="text-right">550.53</td><td class="text-right">11.49</td></tr>                <tr class="data-row-1"><td class=" data-col-2">เชียงใหม่</td>    <td class="text-right">2,323</td>    <td class="text-right">13,245.50</td>            <td class="text-right">13,245.50</td>        <td class="text-right">0.00</td>    <td class="text-right">0.00</td>    <td class="text-right">13,188.50</td>    <td class="text-right">8,696,143.50</td>    <td class="text-right">659.37</td><td class="text-right">12.82</td></tr>                <tr class="data-row-1"><td class=" data-col-2">พะเยา</td>    <td class="text-right">34,446</td>    <td class="text-right">362,214.75</td>            <td class="text-right">350,439.75</td>        <td class="text-right">0.00</td>    <td class="text-right">3,991.25</td>    <td class="text-right">355,373.50</td>    <td class="text-right">168,752,106.00</td>    <td class="text-right">474.86</td><td class="text-right">12.37</td></tr>            </tbody></table><div class="text-muted"><small>หมายเหตุ : เป็นตัวเลขประมาณการจะมีความชัดเจนเมื่อได้สรุปผลเป็นข้อมูลเอกภาพแล้วเท่านั้น</small></div><div class="text-muted"><small>แหล่งที่มา : ระบบสารสนเทศการผลิตทางด้านการเกษตร</small></div>
