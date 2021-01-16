@@ -1,0 +1,24 @@
+<style class="text/css">
+    th {
+        font-weight: bold;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .text-right {
+        text-align: right;
+    }
+    .text-bold {
+        font-weight: bold;
+    }
+    .bg-primary {
+        background: #e5a617;
+        color:#ffffff;
+    }
+    .bg-info {
+        background: #d0e0ff;
+    }
+    .text-primary {
+        color:#0688dc;
+    }
+</style><table class="table table-sm table-condensed table-bordered table-data" border="1"><caption class="text-center text-bold"><div>1 รายงานข้อมูลภาวะการผลิตพืช <span class="text-primary">พืชอายุยาว(รต.02)</span> จำแนกตามพืช/แมลง</div><div> กลุ่ม <span class="text-primary">ไม้ผล</span> ชนิด <span class="text-primary">กล้วยตานี</span> พันธุ์ <span class="text-primary">ทั้งหมด</span></div><div>ภาคเหนือ</div><div>ตั้งแต่เดือน <span class="text-primary">มกราคม</span> <span class="text-primary">2561</span> ถึง <span class="text-primary">ธันวาคม</span> <span class="text-primary">2561</span><div class="text-right text-muted"><small>ตัดยอดข้อมูล ณ วันที่ <span class="text-primary">16</span> เดือน <span class="text-primary">มกราคม</span> พ.ศ. <span class="text-primary">2564</span> เวลา <span class="text-primary">15:02</span>น.</small></div></div></caption><thead><tr class="bg-primary"><th rowspan="2">พื้นที่</th><th rowspan="2">จำนวนครัวเรือน<br/>เกษตรกร</th><th colspan="3">เนื้อที่ยืนต้นทั้งหมด<br/>(ไร่)</th><th rowspan="2">เนื้อที่เสียหาย<br/>(ไร่)</th><th rowspan="2">เนื้อที่เก็บเกี่ยวผลผลิต<br/>(ไร่)</th><th rowspan="2">ผลผลิตที่เก็บเกี่ยวได้<br/>(กิโลกรัม)</th><th colspan="2">ผลผลิตเฉลี่ยต่อไร่</th><th rowspan="2">ราคาขายเฉลี่ย<br/>(บาท/กิโลกรัม)</th></tr><tr class="bg-primary"><th>ให้ผลผลิต</th><th>ยังไม่ให้ผล</th><th>รวม (ไร่)</th><th>/เนื้อที่ให้ผลผลิต<br/>(กิโลกรัม/ไร่)</th><th>/เนื้อที่เก็บเกี่ยว<br/>(กิโลกรัม/ไร่)</th></tr></thead><tbody>            <tr class="data-row-2"><td class="text-bold data-col-1">ภาคเหนือ</td>    <td class="text-right">1,329</td>    <td class="text-right">16,150.00</td>    <td class="text-right">718.00</td>    <td class="text-right">16,868.00</td>    <td class="text-right">0.00</td>    <td class="text-right">16,150.00</td>    <td class="text-right">26,248,650.00</td>    <td class="text-right">1,625.30</td>    <td class="text-right">1,625.30</td>    <td class="text-right">9.50</td></tr>            <tr class="data-row-1"><td class=" data-col-2">สุโขทัย</td>    <td class="text-right">1,329</td>    <td class="text-right">16,150.00</td>    <td class="text-right">718.00</td>    <td class="text-right">16,868.00</td>    <td class="text-right">0.00</td>    <td class="text-right">16,150.00</td>    <td class="text-right">26,248,650.00</td>    <td class="text-right">1,625.30</td>    <td class="text-right">1,625.30</td>    <td class="text-right">9.50</td></tr>            </tbody></table><div class="text-muted"><small>หมายเหตุ : เป็นตัวเลขประมาณการจะมีความชัดเจนเมื่อได้สรุปผลเป็นข้อมูลเอกภาพแล้วเท่านั้น</small></div><div class="text-muted"><small>แหล่งที่มา : ระบบสารสนเทศการผลิตทางด้านการเกษตร</small></div>
